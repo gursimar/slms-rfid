@@ -1,0 +1,4 @@
+The Microsoft Foundation Class Library (also Microsoft Foundation Classes or MFC) is a library that wraps portions of the Windows API in C++ classes, including functionality that enables them to use a default application framework. Classes are defined for many of the handle-managed Windows objects and also for predefined windows and common controls. In an MFC program, direct Windows API calls are rarely needed. Instead, programs create objects from MFC classes and call member functions belonging to those objects. Many of those functions share their names with corresponding API functions. One interesting quirk of MFC is the use of "Afx" as the prefix for many functions, macros and the standard precompiled header name "stdafx.h". During early development what became MFC was called "Application Framework Extensions" and abbreviated "Afx".
+
+http://www.functionx.com/visualc/
+http://en.wikipedia.org/wiki/Microsoft_Foundation_Class_Library
