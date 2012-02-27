@@ -1,0 +1,29 @@
+Library where no book will be lost
+
+The Core Team
+
+Our team consists of enthusiastic Btech undergraduates, currently studying in 3rd year. Here is a small description of individual members.
+Gursimran singh - Computer Science
+Deepinder singla - Electrical Engineering
+Amit Ranjan - Electrical Engineering
+
+The problem being solved
+One of the major problems that the current library management system faces is that most of the times books are not found at their assigned location. So in large libraries, if a careless user misplaces a book from the assigned section, the book is totally useless and is lost forever. Tearing of pages and theft of books are also acute problems specific to Indian libraries. We are addressing these problems in our business solution that will also make the library 24 hour (almost employee less, automatic library) facility with security that was never achieved in existing solutions.
+
+
+The solution in brief
+We have used RFID to establish a smart library system which knows the location of each book and updates the changes in location in real time. Thus the books are never misplaced. The system that we have developed, recognises the user standing in front of the shelves, issues the book to the user as soon as he/she picks up the book and de-issues it when he places back. So the book become libility of the person as soon as he picks the book. This means the new system is more secure and very few people are required to opearte the 24 hour library. This will also increase the user friendliness, in the sense that users will not have to go through the tidious process of finding the book and ending up getting frustated.
+
+Moreover care has been taken so that the current prototype is compatible with the existing infrastructure so that minimal change is required to update the present semiautomated system to our fully automatic solution.
+
+Total Market
+Apart from being for the well being of society and making the libraries a better place to be, its a perfectly sound business idea in terms of finances. The libraries around india and world recieve enormous amount of budgets for improving the infrastructure, books and hiring man power. All the modern day libraries are in full capability to invest in such a venture and spend some money on such a indigious idea that will reduce their future cost of operation. This will only require a one time investment, with some running cost that will ber much less that the current running cost of libraries (with so much of man power required to perform sorting and managing, and issuing books). So in a nutshell, an approximated pay off period (for an average library) will be as less than 2 years. This encourages us to believe with full confidence that we have a lot of market that will support our idea financially.
+
+Competition
+Almost all the solutions that currently exist(RFID/ barcodes) are by no means addressing the current problems that we have reffered to above. However the seriousness of the problems is severe to the extend that once solved through our idea, will significantly improve the current scenarios of the libraries. So in our belief there is no competition to our solution in the current market.
+
+
+Financial Projection
+"One idea can change your life". Its trully said. To support our idea we have collected data and got suffiently convinced that once this idea will come in market it will change the face of liraries around the world. The calculations below show that the libraries will have to invest once in our solution which will not only turn out to be extremely improved user interface, but it will turn out to be a cheap solution in the long run, owning to the fact that running cost will be much less in our solution. This is due to reduced man power, this is similar to 18th century introducing electro-mechanical machines turing out to be cheap and effient for industries in the long run. So there is a payy off period that the libraries will have to wait and then they can spare money that could be invested to buy more books. And what the best part of it is that it all comes with minimal change in existing infrastructure and added security..
+
+lund k baal baki ab tu financial figures show kar de...

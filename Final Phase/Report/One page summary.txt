@@ -1,0 +1,10 @@
+The problem that today's library systems face is that book are often not found at their assigned location. We have used RFID to establish a smart library system which knows the location of each book and updates the changes in location in real time. Thus the books are never misplaced. As a byproduct the system that we have developed, recognises the user standing in front of the shelves, issues the book to the user as soon as he/she picks up the book and de-issues it when he places back. So the book become liability of the person as soon as he picks the book. This means the new system is more secure and very few people are required to opearte the 24 hour library. These added benefits comes in addition to solving more immediate and pressing problem of books misplacing in the library. This will also increase the user friendliness, in the sense that users will not have to go through the tidious process of finding the book and ending up getting frustated. Moreover care has been taken so that the current prototype is compatible with the existing infrastructure so that minimal change is required to update the present semiautomated system to our fully automatic solution.
+
+The system using RFID antennaes in each rack and passive RFID tags will be placed in each book. We have modified the RFID protocol to report whenever a book is picked up from its range.
+
+Here is the workflow
+First the user show his card to the RFID antennae.
+System chages its state to recognize the user standing.
+When the user picks up the book, the system knows the book picked up and the user.
+With this information the system issues the particular book to the particular user.
+When the user places the book back anywhere in the library the system updates the new location corresponding to the RFID antennae that recieved the book (RFID tag). Hence new location is updates in the database.
