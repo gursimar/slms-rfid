@@ -1,0 +1,1387 @@
+<zuiprezi>
+  <version>4</version>
+  <zui-table>
+    <settings>
+      <autoplay>
+        <delay>4000</delay>
+      </autoplay>
+      <bounds x="-986255.0655903459" y="-789463.2304531033" width="1972510.1144993254" height="1578926.4576881807"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+    </settings>
+    <object id="0_1439604" type="button" x="-672745.6137225741" y="-288029.21603391174" r="-42.66201401021431" s="498.0238542870109">
+      <type>invisible</type>
+      <size>
+        <w>1099.581589958159</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="50" type="label" x="-762507.2185211964" y="-383796.02636742126" r="-42.55165549187799" s="1241.896411283823" class="head">
+      <textfield>
+        <x>-213.25</x>
+        <y>-18.3</y>
+        <text><![CDATA[Smart Library Management System]]></text>
+        <annotations>r0-31 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="1_3037527" type="label" x="-497274.2641991347" y="-539726.8587642099" r="-47.92061468537387" s="452.12048141398515" class="body">
+      <textfield>
+        <x>-2</x>
+        <y>-18.3</y>
+        <text><![CDATA[
+]]></text>
+        <annotations/>
+      </textfield>
+    </object>
+    <object id="2_3037527" type="label" x="-595481.3890731571" y="426415.96212027274" r="19.284880952486052" s="451.6552819840441" class="body">
+      <textfield>
+        <x>-2</x>
+        <y>-850.9</y>
+        <text><![CDATA[
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></text>
+        <annotations/>
+      </textfield>
+    </object>
+    <object id="15_1309026" type="button" x="-655434.2246874153" y="-361479.8974547278" r="-47.9195059234785" s="14.888319968423295" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>784.1584158415842</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="13_1309026" type="button" x="-655306.7548894744" y="-362787.1519095571" r="-47.92593826965485" s="13.80614163688386">
+      <type>invisible</type>
+      <size>
+        <w>957.0142857142856</w>
+        <h>766.2999999999995</h>
+      </size>
+    </object>
+    <object id="14_1309026" type="button" x="-655198.1902406199" y="-361180.4726219294" r="-47.92610369531246" s="13.464214475026113" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>810.9375</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="9_1309026" type="button" x="-655871.1532583303" y="-360654.4443848185" r="-41.11699235664719" s="10.79196114980273">
+      <type>invisible</type>
+      <size>
+        <w>973.0909090909092</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="4_1309026" type="image" x="-653968.4942675784" y="-363717.20772919565" r="-41.34168756066155" s="0.8221190947246076">
+      <source w="1300" h="624">140205543.png<url>140205543.png</url>
+      </source>
+      <sourceUrl>library_3.png</sourceUrl>
+    <resource><id>
+        140205543
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/e/7/e29b10aa1cba71c7d8aba975c85ba9e47d872.png</url></resource></object>
+    <object id="2_1307306" type="image" x="-794162.577210867" y="-636377.1295385159" r="-76.97355014236365" s="7.877582360899944">
+      <source w="1421" h="1701">50006235.png<url>50006235.png</url>
+      </source>
+      <resource>
+        <id>
+        50006235
+        </id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/7/4/785993ce824aeac672ae17434af7eefffc6fb.png</url>
+      </resource>
+    </object>
+    <object id="3_1309026" type="image" x="-660946.4321659418" y="-273377.59629950474" r="-42.5967888919009" s="377.4771609431116">
+      <source w="1300" h="624">140200495.png<url>140200495.png</url>
+      </source>
+      <sourceUrl>library5.png</sourceUrl>
+    <resource><id>
+        140200495
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/9/3/694b558fbd0d9fe449b4b3f62fc5d7b8b30bf.png</url></resource></object>
+    <object id="3_1307306" type="image" x="-694222.2075978153" y="-172392.62030515147" r="-8.313245065898132" s="5.659917224330888">
+      <source w="1421" h="1701">50006235.png<url>50006235.png</url>
+      </source>
+      <resource>
+        <id>
+        50006235
+        </id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/7/4/785993ce824aeac672ae17434af7eefffc6fb.png</url>
+      </resource>
+    </object>
+    <object id="0_1444794" type="image" x="-691990.7109796725" y="-175257.15950090636" r="-8.488613635563178" s="1.2484494248636069">
+      <source w="1300" h="624">140509024.png<url>140509024.png</url>
+      </source>
+      <sourceUrl>old library book issue.png</sourceUrl>
+    <resource><id>
+        140509024
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/f/e/fcc60fd4fb0093bff6e7ae6abca8b8e6bb063.png</url></resource></object>
+    <object id="2_1309026" type="label" x="-693628.4825626088" y="-172471.29845408327" r="-8.523197081324087" s="15.44394935491136" class="body">
+      <textfield>
+        <x>-224.4</x>
+        <y>-246.85</y>
+        <text><![CDATA[Problem Statement:
+1.Books misplaced.
+2.Tampering and theft.
+3.Long queues to borrow and return.
+4.Unauthorize use of Card.
+5.Costly and error prone surveillance.
+
+Possible Solutions:
+KEY-IDEA
+Real-time tracking books to update the
+ location in database.
+
+POSSIBLES
+GPS expensive/ dependence on satellite
+Active RFID expensive/ battery in books.]]></text>
+        <annotations>r0-18 { color: #f00; }
+ r18-164 { color: #5b28e0; }
+ r164-183 { color: #f00; }
+ r183-345 { color: #5b28e0; }
+r0-19 { align: left; }
+r19-38 { align: left; }
+r38-61 { align: left; }
+r61-97 { align: left; }
+r97-124 { align: left; }
+r124-163 { align: left; }
+r164-184 { align: left; }
+r184-193 { align: left; }
+r193-232 { align: left; }
+r232-255 { align: left; }
+r256-266 { align: left; }
+r266-305 { align: left; }
+r305-345 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="6_1307306" type="image" x="-656298.1340173115" y="-366415.0457128461" r="-42.59678764635184" s="140.28963208864846">
+      <source w="200" h="200">140202559.jpg<url>140202559.jpg</url>
+      </source>
+      <sourceUrl>nb.jpg</sourceUrl>
+    <resource><id>
+        140202559
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/8/e/2e3b224e0fefc38f8bec8b4ad75265856a1a3.jpg</url></resource></object>
+    <object id="0_3129273" type="image" x="-615799.55" y="-428629.25" r="-42.61039322773909" s="127.71905355367413">
+      <source w="290" h="290">140352757.jpg<url>140352757.jpg</url>
+        <mask x="0" y="40" w="288" h="213"/>
+      </source>
+      <sourceUrl>big-collection-frame.jpg</sourceUrl>
+    <resource><id>
+        140352757
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/4/6/a68e82a1952e0604ba9ae1ce342c531f55515.jpg</url></resource></object>
+    <object id="8_1307306" type="label" x="-612091.9526043663" y="-449823.70220010384" r="-40.970176496941235" s="1.4797309118488675" class="body">
+      <textfield>
+        <x>-256.85</x>
+        <y>-116.25</y>
+        <text><![CDATA[
+Administrators can
+ Curb theft and tearing of pages
+ Get specific information about users who used a particular book in a given span
+ Detect users using other‘s library card
+
+]]></text>
+        <w>513.7</w>
+        <h>232.55</h>
+        <annotations>r1-20 { align: left; }
+r20-53 { bullet: true; }
+r20-53 { align: left; }
+r20-53 { blockIndent: 36; }
+r53-134 { bullet: true; }
+r53-134 { align: left; }
+r53-134 { blockIndent: 36; }
+r134-175 { bullet: true; }
+r134-175 { align: left; }
+r134-175 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="16_3183212" type="button" x="-655190.2664423696" y="-359956.5903052129" r="-41.14530077372069" s="4.310249949170453" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>272.95000000000005</w>
+        <h>160.14999999999998</h>
+      </size>
+    </object>
+    <object id="6_1309026" type="image" x="-655191.3861095136" y="-359957.9252929616" r="-41.340594785656" s="0.8203673191697024">
+      <source w="1300" h="624">140205543.png<url>140205543.png</url>
+      </source>
+      <sourceUrl>library_3.png</sourceUrl>
+    <resource><id>
+        140205543
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/e/7/e29b10aa1cba71c7d8aba975c85ba9e47d872.png</url></resource></object>
+    <object id="7_1309026" type="image" x="-653681.05" y="-358331.65" r="-41.355596358284195" s="2.471131367755877">
+      <source w="605" h="353">140206318.png<url>140206318.png</url>
+        <mask x="6" y="0" w="521" h="336"/>
+      </source>
+      <sourceUrl>Picture1.png</sourceUrl>
+    <resource><id>
+        140206318
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/d/c/157914fa4a63ffae1816abd577b7c9e58d92f.png</url></resource></object>
+    <object id="8_1309026" type="label" x="-657855.0742452698" y="-358171.5394287098" r="-41.153737647357325" s="19.725183134553895" class="strong">
+      <textfield>
+        <x>-242.8</x>
+        <y>-132.6</y>
+        <text><![CDATA[PASSIVE RFID
+Put tags on each book and user ID cards
+There is a unique ID related to each tag.
+
+GRID arrangement of antenna's
+
+Camera is connected to Servo-Motor through servo Controller
+]]></text>
+        <w>485.65</w>
+        <h>265.2</h>
+        <annotations>r0-187 { color: #318bff; }
+r0-13 { align: left; }
+r13-53 { align: left; }
+r53-95 { align: left; }
+r96-126 { align: left; }
+r127-187 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="13_3183212" type="button" x="-618222.1732823018" y="-300226.35313202115" r="-41.11024342242313" s="33.48964431711885">
+      <type>invisible</type>
+      <size>
+        <w>836.6</w>
+        <h>1636.7227272727278</h>
+      </size>
+    </object>
+    <object id="10_1307306" type="label" x="-619705.5169275973" y="-302221.94449573144" r="-47.926152644903425" s="13.007241499214766" class="strong">
+      <textfield>
+        <x>-176.15</x>
+        <y>-67.3</y>
+        <text><![CDATA[users can
+ can locate any book in books
+ get the reviews of the book
+ get the book issued instantly]]></text>
+        <annotations>r0-102 { color: #fff; }
+r0-10 { align: left; }
+r10-41 { bullet: true; }
+r10-41 { align: left; }
+r10-41 { blockIndent: 36; }
+r41-71 { bullet: true; }
+r41-71 { align: left; }
+r41-71 { blockIndent: 36; }
+r71-102 { bullet: true; }
+r71-102 { align: left; }
+r71-102 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="11_3183212" type="button" x="-655084.1564484079" y="-309497.9722391445" r="-41.11023895443992" s="5.243327931490022">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>1419.354838709677</h>
+      </size>
+    </object>
+    <object id="20_3183212" type="video" x="-695912.3882159184" y="-326350.2546811114" r="-41.96439482446599" s="46.00575078770064" onFocus="start" onLeave="pause">
+      <source>140444965.mp4<url>140444965.mp4</url>
+      </source>
+    <resource><id>
+        140444965
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/d/1/6/df422702ed686b352df5f79a92d8f4c6aadf5.mp4</url></resource></object>
+    <object id="22_3183212" type="label" x="-613383.9623603879" y="-451446.5305330788" r="-41.51819649313008" s="31.46984740735551" class="head">
+      <textfield>
+        <x>-176.1</x>
+        <y>-18.3</y>
+        <text><![CDATA[Technical Details/ Challenges
+]]></text>
+        <annotations>r0-30 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="0_1441461" type="button" x="-694128.715391285" y="-174510.47070817064" r="-8.52355686732104" s="8.613380764395501">
+      <type>invisible</type>
+      <size>
+        <w>812.3</w>
+        <h>200.45</h>
+      </size>
+    </object>
+    <object id="0_1440875" type="button" x="-695806.8380555289" y="-175842.0563913231" r="-8.5234086125168" s="4.712786204353569">
+      <type>invisible</type>
+      <size>
+        <w>809.95</w>
+        <h>162.14999999999998</h>
+      </size>
+    </object>
+    <object id="1_1441461" type="button" x="-693386.3760747629" y="-170633.06338823657" r="-8.52345481743682" s="6.81934636777952">
+      <type>invisible</type>
+      <size>
+        <w>1104.7</w>
+        <h>593.45</h>
+      </size>
+    </object>
+    <object id="2_1441461" type="button" x="-566154.8088508012" y="-350867.69226317847" r="-42.662014534731014" s="46.700809302155314">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>1120.9302325581396</h>
+      </size>
+    </object>
+    <object id="0_1442770" type="label" x="-568681.940659101" y="-354049.39870955324" r="-42.66199707581464" s="21.86023604420691" class="body">
+      <textfield>
+        <x>-212.65</x>
+        <y>-99.95</y>
+        <text><![CDATA[Administrators can
+
+Curb theft and tearing of pages
+Get specific user information 
+Detect users using other’s library card
+
+]]></text>
+        <annotations>r0-122 { color: #efefef; }
+ r0-19 { align: left; }
+r20-52 { align: left; }
+r52-83 { align: left; }
+r83-123 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="0_1449850" type="image" x="-661715.05" y="-279955.1" r="137.3896189766881" s="15.52581809427697">
+      <source w="259" h="194">140523089.jpg<url>140523089.jpg</url>
+        <mask x="40" y="11" w="180" h="144"/>
+      </source>
+      <sourceUrl>cycle.jpg</sourceUrl>
+    <resource><id>
+        140523089
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/b/a/e39a051ed453319680c7aa64cd14c837c5fb0.jpg</url></resource></object>
+    <object id="1_1449850" type="label" x="-660737.2697306041" y="-280445.796595329" r="65.51210318868924" s="11.15993504334395" class="body">
+      <textfield>
+        <x>-39.85</x>
+        <y>-18.3</y>
+        <text><![CDATA[Search]]></text>
+        <annotations>r0-6 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="0_1450577" type="image" x="-660921.2396552" y="-280411.38836270914" r="55.17485418726214" s="0.08487269486302505">
+      <source w="649" h="651">140525491.jpg<url>140525491.jpg</url>
+      </source>
+      <sourceUrl>book search.jpg</sourceUrl>
+    <resource><id>
+        140525491
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/8/f/1835167dc958a0d698665e29eaf36eb8d3c61.jpg</url></resource></object>
+    <object id="1_1450577" type="image" x="-662433.9530309673" y="-279338.6611104428" r="26.56505117707799" s="0.08667891551364741">
+      <source w="500" h="634">140525772.jpg<url>140525772.jpg</url>
+      </source>
+      <sourceUrl>book issued.jpg</sourceUrl>
+    <resource><id>
+        140525772
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/b/6/28bf6754f6dd4512e09c95ec95060009ea2a0.jpg</url></resource></object>
+    <object id="5_1450577" type="image" x="-662300.4111919757" y="-280499.88513121207" r="137.90839183795995" s="0.12198486649042828">
+      <source w="497" h="634">140526068.jpg<url>140526068.jpg</url>
+      </source>
+      <sourceUrl>Theft Alarm.jpg</sourceUrl>
+    <resource><id>
+        140526068
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/e/5/deb29ca57b4108e8bdadc60b584d47e91b8bc.jpg</url></resource></object>
+    <object id="7_1450577" type="image" x="-662213.4216677052" y="-280608.6220365502" r="132.12735264605814" s="0.07517479769027542">
+      <source w="1024" h="768">140526126.jpg<url>140526126.jpg</url>
+      </source>
+      <sourceUrl>user db update.jpg</sourceUrl>
+    <resource><id>
+        140526126
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/2/1/b295a8b6142144e72116fe97c32b98e03e17a.jpg</url></resource></object>
+    <object id="2_1449850" type="label" x="-662204.7227152782" y="-279075.539331585" r="-169.3200547047541" s="11.159936481699749" class="body">
+      <textfield>
+        <x>-30.8</x>
+        <y>-18.3</y>
+        <text><![CDATA[Issue]]></text>
+        <annotations>r0-5 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="3_1449850" type="label" x="-662294.3391509252" y="-280686.65422366804" r="132.17171454650398" s="9.218523893352424" class="body">
+      <textfield>
+        <x>-39.9</x>
+        <y>-18.3</y>
+        <text><![CDATA[Return]]></text>
+        <annotations>r0-6 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="6_1450577" type="image" x="-662217.1251821049" y="-279237.0728491784" r="26.56505117707799" s="0.3128586380400886">
+      <source w="483" h="372">140526071.jpg<url>140526071.jpg</url>
+      </source>
+      <sourceUrl>welcome window.jpg</sourceUrl>
+    <resource><id>
+        140526071
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/7/a/e6d496b187016d421a5bbd229e2c497becf40.jpg</url></resource></object>
+    <object id="10_1450577" type="image" x="-662367.2897717737" y="-279305.28641672514" r="26.56505117707799" s="0.059082683930900604">
+      <source w="1300" h="624">140527304.png<url>140527304.png</url>
+      </source>
+      <sourceUrl>library_book issued.png</sourceUrl>
+    <resource><id>
+        140527304
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/b/c/a93606bdb4af3f7c2a822c6f8371d6558cc70.png</url></resource></object>
+    <object id="11_1450577" type="image" x="-662037.9353749318" y="-279174.2853608683" r="26.556658984926695" s="0.08299536958047878">
+      <source w="1300" h="624">140527305.png<url>140527305.png</url>
+      </source>
+      <sourceUrl>library_camera_about to pick.png</sourceUrl>
+    <resource><id>
+        140527305
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/4/e/720408593d8c39d0b78225635d499c5e4941d.png</url></resource></object>
+    <object id="0_1456784" type="image" x="-889989.0744159798" y="-194676.75257599688" r="-42.59678493901637" s="340.49001643868957">
+      <source w="159" h="122">140546888.jpg<url>140546888.jpg</url>
+      </source>
+      <sourceUrl>acc.jpg</sourceUrl>
+    <resource><id>
+        140546888
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/8/6/34cbd8ae55134214fea70e59e2c26a3642ada.jpg</url></resource></object>
+    <object id="0_1461451" type="image" x="-662512.631179899" y="-279382.15587257803" r="26.57056117871606" s="0.12646855440196425">
+      <source w="387" h="332">140562416.jpg<url>140562416.jpg</url>
+      </source>
+      <sourceUrl>jj.jpg</sourceUrl>
+    <resource><id>
+        140562416
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/2/a/6a9ae9390dda22ddfbb14e2622242ad877c09.jpg</url></resource></object>
+    <object id="0_3294065" type="image" x="-514542.25" y="-202630.7" r="-40.103585458692585" s="195.40113502682772">
+      <source w="400" h="300">140820833.jpe<url>140820833.jpe</url>
+        <mask x="57" y="48" w="290" h="195"/>
+      </source>
+      <sourceUrl>http://us.123rf.com/400wm/400/400/serknor/serknor0710/serknor071000008/4567271-mystery-box-white-version--a-gray-opened-box-with-a-blue-light-inside-of-it.jpg</sourceUrl>
+    <resource><id>
+        140820833
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/b/a/8/6ab8e4f2e56922e7e93c2bedd543b623e3897.jpe</url></resource></object>
+    <object id="0" type="button" x="742999.2474166534" y="-606548.7231150096" r="0.255312976599742" s="606.1198518906194" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="0_3314934" type="image" x="-681288.8893524761" y="-184678.5986847312" r="-51.15227644179972" s="22.71236395467985">
+      <source w="350" h="437">140891119.png<url>140891119.png</url>
+      </source>
+      <sourceUrl>http://images.apple.com/support/ipad/assistant/images/restartipad_ipad2.png</sourceUrl>
+    <resource><id>
+        140891119
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/5/2/c/0af66b79cb0e43989e2c19537ea101f5dad73.png</url></resource></object>
+    <object id="1_1307306" type="image" x="-684145.6339423434" y="-184423.96053769585" r="-51.1570283871195" s="0.7835406441143571">
+      <source w="1421" h="1701">50006235.png<url>50006235.png</url>
+      </source>
+      <resource>
+        <id>
+        50006235
+        </id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/7/4/785993ce824aeac672ae17434af7eefffc6fb.png</url>
+      </resource>
+    </object>
+    <object id="1" type="label" x="-684482.782945073" y="-184746.46773931055" r="-51.70301432063962" s="2.4468757155286114" class="head">
+      <textfield>
+        <x>-176.1</x>
+        <y>-18.3</y>
+        <text><![CDATA[Technical Details/ Challenges
+]]></text>
+        <annotations>r0-30 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="2" type="label" x="-684140.9399531625" y="-184504.92108503668" r="-51.558130618492086" s="1.466053582779876" class="body">
+      <textfield>
+        <x>-316.5</x>
+        <y>-214.2</y>
+        <text><![CDATA[
+Hardware
+Whether the range of antennae is enough?
+What about interference among antennae?
+We are using UHF range so minimum interference?
+
+Software
+How exactly does software is able to differentiate between users and books?
+How does the system know when you remove a book from the RFID?
+
+]]></text>
+        <w>633.05</w>
+        <h>428.45</h>
+        <annotations>r1-10 { bullet: true; }
+r1-10 { align: left; }
+r1-10 { blockIndent: 36; }
+r10-51 { bullet: true; }
+r10-51 { align: left; }
+r10-51 { blockIndent: 72; }
+r51-91 { bullet: true; }
+r51-91 { align: left; }
+r51-91 { blockIndent: 72; }
+r91-139 { bullet: true; }
+r91-139 { align: left; }
+r91-139 { blockIndent: 108; }
+r140-149 { bullet: true; }
+r140-149 { align: left; }
+r140-149 { blockIndent: 36; }
+r149-225 { bullet: true; }
+r149-225 { align: left; }
+r149-225 { blockIndent: 72; }
+r225-288 { bullet: true; }
+r225-288 { align: left; }
+r225-288 { blockIndent: 72; }</annotations>
+      </textfield>
+    </object>
+    <object id="0_3294839" type="image" x="-682953.1453697819" y="-185890.16466286295" r="129.12397669325662" s="3.878481132418861">
+      <source w="390" h="298">140825429.jpg<url>140825429.jpg</url>
+      </source>
+      <sourceUrl>Untitled.jpg</sourceUrl>
+    <resource><id>
+        140825429
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/f/f/98b5225f45a4df06dab43ec5b9078ce9bf93b.jpg</url></resource></object>
+    <object id="3_3295956" type="button" x="-683489.8535088826" y="-185711.96533047123" r="-51.9481967079004" s="0.3654183946738874">
+      <type>invisible</type>
+      <size>
+        <w>763.1</w>
+        <h>551.0499999999997</h>
+      </size>
+    </object>
+    <object id="1_3295956" type="image" x="-683477.4941061767" y="-185714.7644983314" r="-51.87954423982061" s="0.42348735687880296">
+      <source w="576" h="389">140827937.png<url>140827937.png</url>
+      </source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/converted/b/d/0/fd9f5d364f6b9e5991b3aaae154e19e09b67a.png</sourceUrl>
+    <resource><id>
+        140827937
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/b/d/0/fd9f5d364f6b9e5991b3aaae154e19e09b67a.png</url></resource></object>
+    <object id="0_3295956" type="label" x="-683563.5792839078" y="-185755.89073381573" r="-51.94549165854118" s="0.7093605453461017" class="head">
+      <textfield>
+        <x>-152.35</x>
+        <y>-18.3</y>
+        <text><![CDATA[Smith chart - simulations
+]]></text>
+        <annotations>r0-26 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="4_3295956" type="image" x="-683241.8903005907" y="-186023.74956597536" r="-51.87853125295773" s="0.5137481479665218">
+      <source w="577" h="362">140827938.png<url>140827938.png</url>
+      </source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/converted/6/c/d/639d2354a5b57bc6b00911ebc62d723ab140d.png</sourceUrl>
+    <resource><id>
+        140827938
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/6/c/d/639d2354a5b57bc6b00911ebc62d723ab140d.png</url></resource></object>
+    <object id="0_3297373" type="button" x="-682963.1793099577" y="-186401.9386759474" r="-51.96228194860283" s="0.2759750449144412">
+      <type>invisible</type>
+      <size>
+        <w>1671.428571428571</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="8_3295956" type="image" x="-682998.2335043914" y="-186315.50898524895" r="-51.88020102167307" s="0.4207193070773796">
+      <source w="437" h="265">140827939.png<url>140827939.png</url>
+      </source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/converted/2/6/1/7721033ce194cfe0724c32dea348c1ecc9bc4.png</sourceUrl>
+    <resource><id>
+        140827939
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/2/6/1/7721033ce194cfe0724c32dea348c1ecc9bc4.png</url></resource></object>
+    <object id="3" type="image" x="-682887.9893548209" y="-186467.65452448043" r="-51.87807041385229" s="0.37670956289589375">
+      <source w="453" h="246">140827940.png<url>140827940.png</url>
+      </source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/converted/e/4/3/e0d2cbcd6b9fd6fc7e6dcba5abff2a6145b6c.png</sourceUrl>
+    <resource><id>
+        140827940
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/e/4/3/e0d2cbcd6b9fd6fc7e6dcba5abff2a6145b6c.png</url></resource></object>
+    <object id="7_3295956" type="label" x="-683024.7179387609" y="-186426.91586608448" r="-51.966688394633735" s="1.047712317076399" class="head">
+      <textfield>
+        <x>-116.95</x>
+        <y>-18.3</y>
+        <text><![CDATA[Hardware - Circuits
+]]></text>
+        <annotations>r0-20 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="1_3298887" type="image" x="-681753.4220249048" y="-187473.7615816743" r="-50.900803788453885" s="5.660537874686951">
+      <source w="344" h="232">140840924.jpg<url>140840924.jpg</url>
+      </source>
+      <sourceUrl>maths.jpg</sourceUrl>
+    <resource><id>
+        140840924
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/3/a/3461165cc9679f4e27cafe358e99b88798929.jpg</url></resource></object>
+    <object id="0_3299928" type="label" x="-682131.9556478442" y="-186390.48361978107" r="-51.16525197273323" s="0.48834087067275683" class="head">
+      <textfield>
+        <x>-190</x>
+        <y>-18.3</y>
+        <text><![CDATA[Software - Mathematical model
+]]></text>
+        <annotations>r0-30 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="1_3299928" type="label" x="-682098.1072487964" y="-186343.2853432462" r="-51.16525118730143" s="0.21975437454979033" class="body">
+      <textfield>
+        <x>-355.2</x>
+        <y>-230.55</y>
+        <text><![CDATA[Set of all n books B
+B = {b1,b2,b3,b4 … bn}
+Set of all m geographic positions
+Ω = {p1, p2, p3 ….. pm}
+There will be a injection from Ω to 3D Euclidian space.
+Set of all i users
+U = {u1,u2,u3,u4 … ul}
+
+Using sets above, we define a injection as follows
+Ƒt: B  U+ Ω
+s.t
+F(bi) = uk  if bi is issued
+F(bi) = pk  otherwise
+
+]]></text>
+        <annotations>r0-21 { bullet: true; }
+r0-21 { align: left; }
+r0-21 { blockIndent: 36; }
+r21-44 { bullet: true; }
+r21-44 { align: left; }
+r21-44 { blockIndent: 72; }
+r44-78 { bullet: true; }
+r44-78 { align: left; }
+r44-78 { blockIndent: 36; }
+r78-102 { bullet: true; }
+r78-102 { align: left; }
+r78-102 { blockIndent: 72; }
+r102-158 { bullet: true; }
+r102-158 { align: left; }
+r102-158 { blockIndent: 72; }
+r158-177 { bullet: true; }
+r158-177 { align: left; }
+r158-177 { blockIndent: 36; }
+r177-200 { bullet: true; }
+r177-200 { align: left; }
+r177-200 { blockIndent: 72; }
+r201-252 { bullet: true; }
+r201-252 { align: left; }
+r201-252 { blockIndent: 36; }
+r252-265 { bullet: true; }
+r252-265 { align: left; }
+r252-265 { blockIndent: 72; }
+r265-269 { bullet: true; }
+r265-269 { align: left; }
+r265-269 { blockIndent: 72; }
+r269-297 { bullet: true; }
+r269-297 { align: left; }
+r269-297 { blockIndent: 108; }
+r297-319 { bullet: true; }
+r297-319 { align: left; }
+r297-319 { blockIndent: 108; }</annotations>
+      </textfield>
+    </object>
+    <object id="1_3301105" type="label" x="-681387.1186123084" y="-187067.49466485853" r="-51.16526236556964" s="0.19176346690279425" class="head">
+      <textfield>
+        <x>-126.15</x>
+        <y>-18.3</y>
+        <text><![CDATA[Mathematical model
+]]></text>
+        <annotations>r0-19 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="2_3301105" type="label" x="-681344.7435173171" y="-187072.44703876504" r="-51.16525456931976" s="0.15094184547026546" class="body">
+      <textfield>
+        <x>-391.25</x>
+        <y>-181.55</y>
+        <text><![CDATA[In this model we have only two states for each book.
+ISSUED_WITH_USER_X
+WITH_SYSTEM_AT_LOC_X 
+In earlier system there were three states
+WITH_SYSTEM_AT_UNKNOWN_LOC 
+WITH_SOME_UNKNOWN_USER 
+ISSUED_WITH_USER_X
+
+Implications/ Benefits  of   “We always know where the book is.”
+Enhanced security
+Statistics and machine learning/ recommender system on data.
+]]></text>
+        <annotations>r0-53 { bullet: true; }
+r0-53 { align: left; }
+r0-53 { blockIndent: 36; }
+r53-72 { bullet: true; }
+r53-72 { align: left; }
+r53-72 { blockIndent: 72; }
+r72-94 { bullet: true; }
+r72-94 { align: left; }
+r72-94 { blockIndent: 72; }
+r94-136 { bullet: true; }
+r94-136 { align: left; }
+r94-136 { blockIndent: 36; }
+r136-164 { bullet: true; }
+r136-164 { align: left; }
+r136-164 { blockIndent: 72; }
+r164-188 { bullet: true; }
+r164-188 { align: left; }
+r164-188 { blockIndent: 72; }
+r188-207 { bullet: true; }
+r188-207 { align: left; }
+r188-207 { blockIndent: 72; }
+r208-273 { bullet: true; }
+r208-273 { align: left; }
+r208-273 { blockIndent: 72; }
+r273-291 { bullet: true; }
+r273-291 { align: left; }
+r273-291 { blockIndent: 72; }
+r291-352 { bullet: true; }
+r291-352 { align: left; }
+r291-352 { blockIndent: 72; }</annotations>
+      </textfield>
+    </object>
+    <object id="6_3301105" type="label" x="-680915.5234240479" y="-187895.3162614188" r="-140.91500089832195" s="0.3522000441504568" class="head">
+      <textfield>
+        <x>-95.75</x>
+        <y>-18.3</y>
+        <text><![CDATA[Data structures
+]]></text>
+        <annotations>r0-16 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="7_3301105" type="label" x="-680915.1358469595" y="-187956.89795434297" r="-140.91499451102044" s="0.21131858068650844" class="body">
+      <textfield>
+        <x>-341.8</x>
+        <y>-214.2</y>
+        <text><![CDATA[Structure of data
+User/ Books
+(“key”, “value”) pairs uniquely identifiable by “key”.
+Value may contain set of entries.  These set will act as additional metadata for that “key”.
+Book’s name
+Author 
+User’s details etc.
+
+Local copy of tags
+Just an array of strings.
+
+
+]]></text>
+        <w>683.6</w>
+        <h>428.45</h>
+        <annotations>r0-18 { bullet: true; }
+r0-18 { align: left; }
+r0-18 { blockIndent: 36; }
+r18-30 { bullet: true; }
+r18-30 { align: left; }
+r18-30 { blockIndent: 72; }
+r30-85 { bullet: true; }
+r30-85 { align: left; }
+r30-85 { blockIndent: 108; }
+r85-178 { bullet: true; }
+r85-178 { align: left; }
+r85-178 { blockIndent: 108; }
+r178-190 { bullet: true; }
+r178-190 { align: left; }
+r178-190 { blockIndent: 144; }
+r190-198 { bullet: true; }
+r190-198 { align: left; }
+r190-198 { blockIndent: 144; }
+r198-218 { bullet: true; }
+r198-218 { align: left; }
+r198-218 { blockIndent: 144; }
+r219-238 { bullet: true; }
+r219-238 { align: left; }
+r219-238 { blockIndent: 72; }
+r238-264 { bullet: true; }
+r238-264 { align: left; }
+r238-264 { blockIndent: 108; }</annotations>
+      </textfield>
+    </object>
+    <object id="1_3302295" type="label" x="-681353.3563415024" y="-188272.6440889723" r="-140.9150025275516" s="0.3311557839897342" class="head">
+      <textfield>
+        <x>-95.75</x>
+        <y>-18.3</y>
+        <text><![CDATA[Data structures
+]]></text>
+        <annotations>r0-16 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="2_3302295" type="label" x="-681355.7679322743" y="-188324.62248292996" r="-140.91501479890897" s="0.18213503608741377" class="body">
+      <textfield>
+        <x>-362.65</x>
+        <y>-197.9</y>
+        <text><![CDATA[Local copy of tags will be small so BST.
+Lexicographical order
+O(log (n))
+
+A Dictionary/ associative array
+Users dictionary will be large.  
+Books dictionary will be largest.
+~O(1)
+
+Possibly to speed up we may use some caching as well.
+Based on user present.
+Based on user who come frequently.
+]]></text>
+        <annotations>r0-41 { bullet: true; }
+r0-41 { align: left; }
+r0-41 { blockIndent: 72; }
+r41-63 { bullet: true; }
+r41-63 { align: left; }
+r41-63 { blockIndent: 108; }
+r63-74 { bullet: true; }
+r63-74 { align: left; }
+r63-74 { blockIndent: 108; }
+r75-107 { bullet: true; }
+r75-107 { align: left; }
+r75-107 { blockIndent: 36; }
+r107-141 { bullet: true; }
+r107-141 { align: left; }
+r107-141 { blockIndent: 72; }
+r141-175 { bullet: true; }
+r141-175 { align: left; }
+r141-175 { blockIndent: 72; }
+r175-181 { bullet: true; }
+r175-181 { align: left; }
+r175-181 { blockIndent: 72; }
+r182-236 { bullet: true; }
+r182-236 { align: left; }
+r182-236 { blockIndent: 36; }
+r236-259 { bullet: true; }
+r236-259 { align: left; }
+r236-259 { blockIndent: 72; }
+r259-294 { bullet: true; }
+r259-294 { align: left; }
+r259-294 { blockIndent: 72; }</annotations>
+      </textfield>
+    </object>
+    <object id="3_3302295" type="image" x="-681410.1148528828" y="-188330.22081865033" r="-140.9014103597092" s="0.07982830630506794">
+      <source w="417" h="274">140842182.png<url>140842182.png</url>
+      </source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/converted/5/1/b/bf644860c806787f285a4979e7a1a35ea3f18.png</sourceUrl>
+    <resource><id>
+        140842182
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/5/1/b/bf644860c806787f285a4979e7a1a35ea3f18.png</url></resource></object>
+    <object id="4" type="image" x="-681391.1235755545" y="-188359.41829263815" r="-140.8973788389114" s="0.11206026656334846">
+      <source w="358" h="147">140842183.png<url>140842183.png</url>
+      </source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/converted/0/4/2/75a41f2dba0eeddf63eaa121fd240f6261d6f.png</sourceUrl>
+    <resource><id>
+        140842183
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/0/4/2/75a41f2dba0eeddf63eaa121fd240f6261d6f.png</url></resource></object>
+    <object id="7_3302295" type="button" x="-681788.2178346129" y="-188387.7975483284" r="129.1812410575877" s="0.10925488892340988">
+      <type>invisible</type>
+      <size>
+        <w>611.2781954887218</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="6_3302295" type="image" x="-681790.6294253849" y="-188390.2952673421" r="129.09309805349432" s="0.09936606530621374">
+      <source w="662" h="588">140842184.png<url>140842184.png</url>
+      </source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/converted/e/7/0/d0028143340e03cb14fc8d05156d7c0bbf7cf.png</sourceUrl>
+    <resource><id>
+        140842184
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/e/7/0/d0028143340e03cb14fc8d05156d7c0bbf7cf.png</url></resource></object>
+    <object id="5_3302295" type="label" x="-681762.4224261784" y="-188373.5433243019" r="129.1858465399769" s="0.19747405404230528" class="head">
+      <textfield>
+        <x>-106.3</x>
+        <y>-18.3</y>
+        <text><![CDATA[Use case diagram
+]]></text>
+        <annotations>r0-17 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="11_3302295" type="button" x="-682012.9264176048" y="-188100.68905411483" r="129.10488549458353" s="0.13246480931655802">
+      <type>invisible</type>
+      <size>
+        <w>845.4545454545455</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="9_3302295" type="label" x="-681979.9823650965" y="-188089.01867734388" r="129.18124505582705" s="0.257320520252691" class="head">
+      <textfield>
+        <x>-129.35</x>
+        <y>-18.3</y>
+        <text><![CDATA[Context free diagram
+]]></text>
+        <annotations>r0-21 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="10_3302295" type="image" x="-682019.5582922273" y="-188100.9905029613" r="129.09924256879506" s="0.15443889702706312">
+      <source w="603" h="378">140842185.png<url>140842185.png</url>
+      </source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/converted/9/3/7/858bad8df050fb4eb9dcef6a74ad6b3d80aae.png</sourceUrl>
+    <resource><id>
+        140842185
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/9/3/7/858bad8df050fb4eb9dcef6a74ad6b3d80aae.png</url></resource></object>
+    <object id="19_3302295" type="button" x="-682593.5599600499" y="-187358.86650704377" r="129.1048676730625" s="0.18207897764730285">
+      <type>invisible</type>
+      <size>
+        <w>928.5333333333332</w>
+        <h>567.8999999999999</h>
+      </size>
+    </object>
+    <object id="13_3302295" type="label" x="-682537.3612822415" y="-187368.8573830986" r="129.1812434607512" s="0.36024877316181303" class="head">
+      <textfield>
+        <x>-85.15</x>
+        <y>-18.3</y>
+        <text><![CDATA[Class diagram
+]]></text>
+        <annotations>r0-14 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="14_3302295" type="image" x="-682599.3736163749" y="-187369.24496018692" r="129.09732648253052" s="0.21793892178071117">
+      <source w="642" h="374">140842187.png<url>140842187.png</url>
+      </source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/converted/b/d/5/dfd70860b909685a71f87034a6346d104d16e.png</sourceUrl>
+    <resource><id>
+        140842187
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/b/d/5/dfd70860b909685a71f87034a6346d104d16e.png</url></resource></object>
+    <object id="18_3302295" type="button" x="-682307.7433894642" y="-187741.5342855921" r="129.10488643248897" s="0.17672008995456173">
+      <type>invisible</type>
+      <size>
+        <w>575.2983922487224</w>
+        <h>396.5375</h>
+      </size>
+    </object>
+    <object id="16_3302295" type="label" x="-682273.8949904164" y="-187743.1707221873" r="129.1047867255136" s="0.23381518103128815" class="head">
+      <textfield>
+        <x>-86.05</x>
+        <y>-18.3</y>
+        <text><![CDATA[State diagram
+]]></text>
+        <annotations>r0-14 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="17_3302295" type="image" x="-682312.7388274915" y="-187744.5487740569" r="129.09581526902977" s="0.15453646521967576">
+      <source w="669" h="299">140842186.png<url>140842186.png</url>
+      </source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/converted/f/f/8/dd0e6619efa574ee2eae7f6538e8f3fc719dc.png</sourceUrl>
+    <resource><id>
+        140842186
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/f/f/8/dd0e6619efa574ee2eae7f6538e8f3fc719dc.png</url></resource></object>
+    <object id="0_3303535" type="image" x="-682653.1176392906" y="-186945.45094615428" r="38.348023631608974" s="0.44703287020929555">
+      <source w="358" h="283">140854453.jpe<url>140854453.jpe</url>
+      </source>
+      <sourceUrl>http://1.bp.blogspot.com/-ZTZzH7VhUT4/T0o-qLgb4JI/AAAAAAAAAFY/UlkCQiZI0hI/s400/fc9conclusion_imagen.jpg</sourceUrl>
+    <resource><id>
+        140854453
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/3/0/7/e5c0d183132aeb1ea5f0b5e4fb4141e049748.jpe</url></resource></object>
+    <object id="0_3305970" type="image" x="-682670.5155441447" y="-186890.54419197363" r="39.09254000481676" s="0.057335549007092326">
+      <source w="571" h="280">140862506.jpg<url>140862506.jpg</url>
+      </source>
+      <sourceUrl>66.jpg</sourceUrl>
+    <resource><id>
+        140862506
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/0/a/d030d3ff1bd6b3eb58edb54430a58a0fca0cb.jpg</url></resource></object>
+    <object id="0_3529848" type="image" x="-681784.169807246" y="-186507.74722106257" r="-50.2753733770744" s="0.2208918202127365">
+      <source w="523" h="426">141569005.JPG<url>141569005.JPG</url>
+      </source>
+      <sourceUrl>lllll.JPG</sourceUrl>
+    <resource><id>
+        141569005
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/c/4/f774321cdf7bfe3869e340df257ffa5c8c3cd.JPG</url></resource></object>
+    <object id="1_3305970" type="image" x="-682622.3698569494" y="-186880.8547647653" r="39.09872775761181" s="0.031034670748308624">
+      <source w="290" h="267">140863097.jpe<url>140863097.jpe</url>
+      </source>
+      <sourceUrl>http://wedding-thanks-you.com/wp-content/uploads/2011/07/thanks_you_e-cards.jpg</sourceUrl>
+    <resource><id>
+        140863097
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/1/e/0/199e40994a47b06c94e4105f4bcd0978af06c.jpe</url></resource></object>
+    <object id="21_3302295" type="label" x="-682725.2931059625" y="-186947.04431862856" r="39.08791678620495" s="0.06574267028200027" class="head">
+      <textfield>
+        <x>-127.5</x>
+        <y>-18.3</y>
+        <text><![CDATA[Possible refinements
+]]></text>
+        <annotations>r0-21 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="22_3302295" type="label" x="-682726.8864784368" y="-186938.0008532341" r="39.08792619713883" s="0.03944534535286725" class="body">
+      <textfield>
+        <x>-355</x>
+        <y>-181.55</y>
+        <text><![CDATA[Freedom to place the book anywhere. Curse or boon?
+Categories will lose their meaning soon.
+Solution
+User can be prompted right when he places the book.
+Social and economic policies so that users place books are the right location in the first place.
+Security
+Unique encrypted signature of university in the RFID tag.
+Possibly to enhance security we can detect which user is taking which book at the gate. Thus having two fold security.
+]]></text>
+        <w>710</w>
+        <h>363.15</h>
+        <annotations>r0-51 { bullet: true; }
+r0-51 { align: left; }
+r0-51 { blockIndent: 36; }
+r51-92 { bullet: true; }
+r51-92 { align: left; }
+r51-92 { blockIndent: 72; }
+r92-101 { bullet: true; }
+r92-101 { align: left; }
+r92-101 { blockIndent: 36; }
+r101-153 { bullet: true; }
+r101-153 { align: left; }
+r101-153 { blockIndent: 72; }
+r153-251 { bullet: true; }
+r153-251 { align: left; }
+r153-251 { blockIndent: 72; }
+r251-260 { bullet: true; }
+r251-260 { align: left; }
+r251-260 { blockIndent: 36; }
+r260-318 { bullet: true; }
+r260-318 { align: left; }
+r260-318 { blockIndent: 72; }
+r318-437 { bullet: true; }
+r318-437 { align: left; }
+r318-437 { blockIndent: 72; }</annotations>
+      </textfield>
+    </object>
+    <object id="0_3320095" type="image" x="-681034.6387825292" y="-187434.27178278516" r="-51.15369296354117" s="0.13825167302152988">
+      <source w="748" h="964">140907576.JPG<url>140907576.JPG</url>
+      </source>
+      <sourceUrl>LL.JPG</sourceUrl>
+    <resource><id>
+        140907576
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/9/1/d2becd4e696f78209c486fb4c076bd6693fe5.JPG</url></resource></object>
+    <object id="4_3529848" type="label" x="-682704.1916867087" y="-186926.1151558585" r="38.7948358423303" s="0.05466928599355014" class="head">
+      <textfield>
+        <x>-63</x>
+        <y>-18.3</y>
+        <text><![CDATA[Feasibility
+]]></text>
+        <annotations>r0-12 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="5_3529848" type="label" x="-682702.0384806625" y="-186917.37313931057" r="38.7948358423303" s="0.02733464299677507" class="body">
+      <textfield>
+        <x>-388.95</x>
+        <y>-181.55</y>
+        <text><![CDATA[Economically very viable solution
+One time investment is required
+Pay off period
+Later libraries can use this money to buy books.
+
+One time investment will come at the cost of
+Really improved and enhanced user experience.
+User interact with system not with human beings.
+Increased security.
+Data statistics can be used to increase library experience.
+Find some interesting correlations in data and exploit them.
+]]></text>
+        <annotations>r0-34 { bullet: true; }
+r0-34 { align: left; }
+r0-34 { blockIndent: 36; }
+r34-66 { bullet: true; }
+r34-66 { align: left; }
+r34-66 { blockIndent: 72; }
+r66-81 { bullet: true; }
+r66-81 { align: left; }
+r66-81 { blockIndent: 72; }
+r81-130 { bullet: true; }
+r81-130 { align: left; }
+r81-130 { blockIndent: 72; }
+r131-176 { bullet: true; }
+r131-176 { align: left; }
+r131-176 { blockIndent: 36; }
+r176-222 { bullet: true; }
+r176-222 { align: left; }
+r176-222 { blockIndent: 72; }
+r222-271 { bullet: true; }
+r222-271 { align: left; }
+r222-271 { blockIndent: 108; }
+r271-291 { bullet: true; }
+r271-291 { align: left; }
+r271-291 { blockIndent: 72; }
+r291-351 { bullet: true; }
+r291-351 { align: left; }
+r291-351 { blockIndent: 72; }
+r351-412 { bullet: true; }
+r351-412 { align: left; }
+r351-412 { blockIndent: 108; }</annotations>
+      </textfield>
+    </object>
+    <object id="0_3558906" type="button" x="-681051.05" y="-187444.65" r="-51.15369296354117" s="0.08316504273797495">
+      <type>invisible</type>
+      <size>
+        <w>1111.392405063291</w>
+        <h>600</h>
+      </size>
+    </object>
+  </zui-table>
+  <path>
+    <o>0_1439604</o>
+    <o>13_3183212</o>
+    <o>10_1307306</o>
+    <o>2_1441461</o>
+    <o>0_1442770</o>
+    <o>3_1307306</o>
+    <o>0_1441461</o>
+    <o>3_1307306</o>
+    <o>8_1309026</o>
+    <o>6_1309026</o>
+    <o>8_1309026</o>
+    <o>7_1309026</o>
+    <o>0_1449850</o>
+    <o>0_1450577</o>
+    <o>0_1449850</o>
+    <o>11_1450577</o>
+    <o>6_1450577</o>
+    <o>10_1450577</o>
+    <o>1_1450577</o>
+    <o>0_1461451</o>
+    <o>0_1449850</o>
+    <o>7_1450577</o>
+    <o>5_1450577</o>
+    <o>0_1449850</o>
+    <o>20_3183212</o>
+    <o>0_1439604</o>
+    <o>0_3314934</o>
+    <o>0_3529848</o>
+    <o>0_3320095</o>
+    <o>0_3558906</o>
+    <o>7_3301105</o>
+    <o>2_3302295</o>
+    <o>7_3302295</o>
+    <o>11_3302295</o>
+    <o>18_3302295</o>
+    <o>19_3302295</o>
+    <o>3_3295956</o>
+    <o>4_3295956</o>
+    <o>0_3297373</o>
+    <o>0_3303535</o>
+    <o>5_3529848</o>
+    <o>0_3305970</o>
+    <o>1_3305970</o>
+    <o>1_3299928</o>
+    <o>22_3302295</o>
+    <o>1_3298887</o>
+    <o>1_1307306</o>
+    <o>2_3301105</o>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('OpenSans.swf');
+	fontFamily: body;
+}
+
+@font-face
+{
+	src: url('OpenSans-B.swf');
+	fontFamily: head;
+}
+
+@font-face
+{
+	src: url('OpenSans-I.swf');
+	fontFamily: strong;
+}
+
+ZLabel
+{
+	padding: 1.2;
+}
+
+ZLabel.head
+{
+	fontFamily: head;
+	color: #000;
+}
+
+.line5
+{
+	color: #333;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+.poly5
+{
+	gradEndColor: #333;
+	borderThickness: 0;
+	gradStartColor: #333;
+	borderColor: #333;
+}
+
+ZLabel.strong
+{
+	fontFamily: strong;
+	color: #f00;
+}
+
+.line1
+{
+	color: #f00;
+	gradEndColor: #f00;
+	gradStartColor: #f00;
+}
+
+.poly1
+{
+	gradEndColor: #f00;
+	borderThickness: 0;
+	gradStartColor: #f00;
+	borderColor: #f00;
+}
+
+ZLabel.body
+{
+	fontFamily: body;
+	color: #333;
+}
+
+Background
+{
+	gradStart: #fff;
+	gradEnd: #fff;
+}
+
+Grid
+{
+	color: #ddd;
+}
+
+ZFrame.circle
+{
+	gradEndColor: #c5c3c3;
+	borderThickness: 0;
+	gradStartColor: #c5c3c3;
+	borderColor: #fff;
+	thickness: 7;
+}
+
+.line4
+{
+	color: #640f1e;
+	gradEndColor: #640f1e;
+	gradStartColor: #640f1e;
+}
+
+.poly4
+{
+	gradEndColor: #640f1e;
+	borderThickness: 0;
+	gradStartColor: #640f1e;
+	borderColor: #640f1e;
+}
+
+ZFrame.bracket
+{
+	gradEndColor: #c5c3c3;
+	borderThickness: 0;
+	gradStartColor: #c5c3c3;
+	borderColor: #fff;
+	thickness: 7;
+}
+
+.line2
+{
+	color: #efefef;
+	gradEndColor: #efefef;
+	gradStartColor: #efefef;
+}
+
+.poly2
+{
+	gradEndColor: #efefef;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 0.9;
+	gradStartColor: #efefef;
+	borderColor: #efefef;
+}
+
+ZFrame.roundrect
+{
+	borderThickness: 0;
+	gradStartAlpha: 0.6;
+	borderColor: #fff;
+	gradEndColor: #ccc;
+	radius: 0;
+	gradEndAlpha: 0.7;
+	gradStartColor: #e6e6e6;
+}
+
+ZPoly
+{
+	thickness: 100;
+	radius: 0;
+	gradEndAlpha: 0.7;
+	gradStartAlpha: 0.6;
+	lockTintAlpha: 0.6;
+	borderAlpha: 1;
+}
+
+ZCircle
+{
+	thickness: 100;
+	radius: 0;
+	lockTintAlpha: 0.6;
+	borderAlpha: 1;
+}
+
+ZArrow
+{
+	gradEndColor: #f00;
+	borderThickness: 0;
+	gradStartColor: #f00;
+	borderColor: #fff;
+}
+
+.line3
+{
+	color: #c5c3c3;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #c5c3c3;
+}
+
+.poly3
+{
+	gradEndColor: #c5c3c3;
+	borderThickness: 0;
+	gradStartColor: #c5c3c3;
+	borderColor: #c5c3c3;
+}
+
+ZLine
+{
+	color: #c5c3c3;
+}
+
+ZCurveLine
+{
+	color: #f00;
+}
+
+ZMarker
+{
+	alpha: 0.3;
+	color: #ffff0d;
+}
+
+ZVideo
+{
+	padding: 1.2;
+}
+
+]]></style>
+  <hash>a14bc28bc67f64cfbfa9a3036405b48c</hash>
+<sync><oid>8q3tqrt83dz0</oid><hash>a14bc28bc67f64cfbfa9a3036405b48c</hash></sync><config>Ss86Pts6jwBegv8QiJmMEDAZKSFLop9W/fTjMu2it6hrP/7yNBhisJj/FwXMM9WG0vnoPYjBUwLhLYewiFPg/pbeRqutetwmFypvnGMSq8Nu17qDatiAUFFsREoW6IWewLmvAZFbitFY2wuXnWGaI7GYo0kb1LO9fB9mkVGzJ46VM21pCeqh3a+cDUWsuZhA0P7mAz7WhimczsJ6k4dRiupDeLjlPAXBH/1fZDNrb0Dvi/PpE3Cn3ZPQHt9uykvcAcVkVGM97EoISwDuGa9+Y6QBJWaf5OvsJTnzHMxDY5P6x2B0F3kFdN4BdNeU45MU/jeGvWyt5OueXwfum4sT1A==</config></zuiprezi>
